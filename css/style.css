@@ -207,7 +207,9 @@
         display: none;
     }
 
-
+    #bio-container {
+        margin: 0px auto;
+    }
 
     #about-container{
         text-align: center;
